@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+
+        body {
+            font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+            /* 
+            Medidas Absolutas 
+            cm, mm, in, px, pt, pc
+
+            Medidas Relativas
+            em, ex, rem, v%, vh, %
+            16px = 1em (geralmente)
+            */ 
+            font-size: 1em;
+            font-weight: normal;
+            font-style: normal;
+            text-decoration: underline;
+            
+            /* lighter, normal, bold, bolder*/
+        }
+        
+        h1 {
+
+            /* shorthand font
+            style  weigth size, family
+            
+            font-family: 'Work Sans', sans-serif;
+            font-weight: bolder;
+            font-size: 3em;
+            font-style: italic;
+
+            */
+
+            font: italic bolder 3em 'Work Sans', sans-serif;
+        }
+
+        h2 {
+
+            font: bold 2em 'Work Sans';
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com Fontes</h1>
+    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae iusto eveniet asperiores eaque totam alias deleniti veritatis, tempora harum quasi rerum doloremque accusantium assumenda, delectus quod, accusamus nesciunt exercitationem quia.</p>
+    
+    <h2>Subtítulo do Exercício</h2>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt cumque ut sed harum ad a tempora beatae aperiam sit? Accusamus velit magni aliquid odit aut laborum corrupti. Repellat, dolore itaque!</p> 
+</body>
+</html>

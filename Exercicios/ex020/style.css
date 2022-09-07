@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div > p { /* representação do filho da pclasse com > */
+
+    display: none;     
+
+}
+
+div:hover > p { /* representação do filho da pclasse com >  hover */
+    display: block;
+    color: white;
+    background-color: red;
+    width: 280px;
+    text-align: center;
+}
+
+div:hover { /* representação da pclasse */
+    color: red;
+}
