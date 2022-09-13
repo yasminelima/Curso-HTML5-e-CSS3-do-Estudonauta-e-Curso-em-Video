@@ -2,7 +2,7 @@
 
 <p>Exercícios e Desafios dos Cursos de <strong>HTML5</strong> e <strong>CSS3</strong> das Plataformas:<br><br>
 🚀  Estudonauta<br>
-📺  Curso em Vídeo</p>
+📺  Curso em Vídeo</p><br>
 
 <table>
     <tr>
