@@ -8,17 +8,26 @@
     <style>
         body {
             height: 100vh;
+
+            /*shorthand - background
+                color > image > position > repeat > [size] > attachment
+
             background-color: black;
-            background-image: url(/Exercicios/ex022/Imagens/wallpaper002.jpg);
+            background-image: url();
             background-position: center center;
             background-repeat: no-repeat;
+            background-size: cover; (não estava funcionando no curso)
+            background-attachment: fixed;
+            */
+            
+            background: black url(/Exercicios/ex022/Imagens/wallpaper002.jpg) center center no-repeat fixed;
             background-size: cover;
 
         }
 
         main {
             background-color: white;
-            width: 400px;
+            max-width: 400px;
             padding: 10px;
             margin: auto;
             border: 1px solid darkblue;
