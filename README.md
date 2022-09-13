@@ -1,6 +1,8 @@
-<h1>Curso-HTML5-e-CSS3-do-CV-Estudonauta</h1>
+<h1>HTML5 e CSS3</h1>
 
-<p>Exercícios e Desafios do Curso de HTML5 e CSS3 do Estudonauta e Curso em Vídeo</p><br><br>
+<p>Exercícios e Desafios dos Cursos de HTML5 e CSS3 das Plataformas:<br>
+🚀  Estudonauta<br>
+📺  Curso em Vídeo</p>
 
 <table>
     <tr>
