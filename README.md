@@ -7,22 +7,22 @@
 <table>
     <tr>
         <td>
-        <h3>DESENVOLVIMENTO WEB 2020 (HTML5+CSS3): MÓDULO 1 DE 5</h3>
+        <h3>Desenvolvimento Web 2020 (HTML+CSS3): Módulo 1 de 5</h3>
         <p>🚀 Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado:<br> <a href="https://www.estudonauta.com/validacao-de-certificado/?codigo=1BED-B467-9" target="_blank">1BED-B467-9</a></p>
         </td>
         <td>
-        <h3>DESENVOLVIMENTO WEB 2020 (HTML5+CSS3): MÓDULO 2 DE 5</h3>
+        <h3>Desenvolvimento Web 2020 (HTML+CSS3): Módulo 2 de 5</h3>
         <p>🚀 Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado:<br> <a href="https://www.estudonauta.com/validacao-de-certificado/?codigo=1BED-B467-9" target="_blank">1BED-E979-9</a></p>
         </td>
     </tr>
     <tr>
         <td>
-        <h3>CURSO HTML5 E CSS3: MÓDULO 1 DE 5 [40 HORAS]</h3>
+        <h3>Curso de HTML5  e CSS3: Módulo 1 de 5</h3>
         <p>📺  Curso em Vídeo <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado:<br> <a href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=78CB0-A18C-9" target="_blank">78CB0-A18C-9
 </a></p>
         </td>
         <td>
-        <h3>CURSO HTML5 E CSS3: MÓDULO 2 DE 5 [40 HORAS]</h3>
+        <h3>Curso de HTML5  e CSS3: Módulo 2 de 5</h3>
         <p>📺  Curso em Vídeo <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado:<br> <a href="https://www.cursoemvideo.com/validacao-de-certificado/?codigo=78CB0-C9E9-5" target="_blank">78CB0-E776-7</a></p>
         </td>
     </tr>
