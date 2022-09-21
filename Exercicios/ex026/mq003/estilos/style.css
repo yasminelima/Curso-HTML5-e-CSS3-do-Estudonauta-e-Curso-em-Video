@@ -20,6 +20,8 @@ h1 {
     padding: 10px;
 }
 
+/*media retrato*/
+
 @media screen and (orientation: portrait) {
 
     body {
@@ -28,6 +30,8 @@ h1 {
     }
 
 }
+
+/*media paisagem*/
 
 @media screen and (orientation: landscape) {
 
