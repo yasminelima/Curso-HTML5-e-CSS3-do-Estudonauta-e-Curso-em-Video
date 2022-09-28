@@ -30,5 +30,11 @@
         <h3>Desenvolvimento Web 2020 (HTML+CSS3): Módulo 3 de 5</h3>
         <p>🚀 Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado: <a href="https://www.estudonauta.com/validacao-de-certificado/?codigo=1BED-E9AC-7" target="_blank">1BED-E9AC-7</a></p>
         </td>
+        <td>
+        <h3>Desenvolvimento Web 2020 (HTML+CSS3): Módulo 4 de 5</h3>
+        <p>🚀 Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado: <a href="https://www.cursoemvideo.com/curso/html5/" target="_blank">EM ANDAMENTO</a></p>
+        </td>
     </tr>
     </tr>
+
+
