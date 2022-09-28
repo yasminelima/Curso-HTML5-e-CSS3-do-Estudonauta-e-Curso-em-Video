@@ -32,7 +32,7 @@
         </td>
         <td>
         <h3>Desenvolvimento Web 2020 (HTML+CSS3): Módulo 4 de 5</h3>
-        <p>🚀 Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado: <a href="https://www.cursoemvideo.com/curso/html5/" target="_blank">EM ANDAMENTO</a></p>
+        <p>🚀 Estudonauta <br><br> ⏰ Carga Horária: 40h<br><br> 📜 Certificado: <a href="https://www.estudonauta.com/curso/desenvolvimento-web-2020-html5css3-modulo-4-de-5/" target="_blank">EM ANDAMENTO</a></p>
         </td>
     </tr>
     </tr>
